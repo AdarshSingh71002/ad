@@ -1,0 +1,33 @@
+Daily Schedule for Adarsh
+Day 1: Develop Custom Prompt for Langfuse Evaluation (8 hours)
+Create a custom prompt template for LLM-as-a-Judge in Langfuse, targeting accuracy, coherence, and relevance.
+Test the prompt with a sample dataset for one use case (e.g., summarization) across two LLMs (e.g., GPT-based, custom model).
+Refine prompt based on initial results.
+Deliverable: Initial custom prompt and test results.
+
+Day 2: Expand Prompt Evaluation Across Use Cases and Models (8 hours)
+Adapt the prompt for additional use cases: question answering and code generation.
+Test the prompt across multiple LLMs (e.g., Llama-based, custom model) using datasets for each use case.
+Analyze Langfuse traces and scores to identify the best prompt.
+Deliverable: Optimized prompt and multi-use-case test results.
+
+Day 3: Explore Agent QA Tools and Draft Web/API Testing Approaches (8 hours)
+Explore Playwright MCP for web testing and API testing tools (e.g., fetch or axios) for Agent QA.
+Draft web testing approach: LLM generates Playwright scripts for browser interactions (e.g., form validation).
+Draft API testing approach: LLM generates API test cases from natural language inputs.
+Create flow diagrams for web and API testing workflows.
+Deliverable: Draft web and API testing sections with flow diagrams.
+
+Day 4: Draft Agent Testing and Prompt Evaluation Approaches (8 hours)
+Draft agent testing approach: evaluate LLM agent task completion and tool usage (e.g., Playwright MCP).
+Draft prompt evaluation approach: integrate Langfuse evaluation into Agent QA for assessing test outputs.
+Create flow diagrams for agent testing and prompt evaluation workflows.
+Test Agent QA tools with a sample scenario to validate approaches.
+Deliverable: Draft agent testing and prompt evaluation sections with flow diagrams.
+
+Day 5: Finalize Agent QA Solution Document and Demo (8 hours)
+Compile the Agent QA solution document, integrating all testing approaches and flow diagrams.
+Document the best Langfuse prompt and evaluation results.
+Prepare a demo showcasing the prompt evaluation and Agent QA workflows.
+Review and refine documentation for clarity.
+Deliverable: Final Agent QA solution document, prompt evaluation summary, and demo.
